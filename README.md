@@ -1,0 +1,4 @@
+- My first markdown for my README
+- _Thank you ALX SE team for the compeling exposure to learn these skills_
+- **My zero day in Devops**
+- Kindly look at this [Medium publication](https://medium.com/analytics-vidhya/how-to-create-a-readme-md-file-8fb2e8ce24e3) for help in writing good markdown files
